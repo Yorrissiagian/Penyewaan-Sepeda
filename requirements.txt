@@ -1,8 +1,6 @@
-#liblary yang dugunakan dalam analisis data
 streamlit
-numpy
 pandas
 matplotlib
-scikit-learn
 seaborn
-python-3.10
+folium
+streamlit_folium
