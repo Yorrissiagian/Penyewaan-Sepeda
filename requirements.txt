@@ -1,6 +1,8 @@
 #liblary yang dugunakan dalam analisis data
+streamlit
 numpy
 pandas
 matplotlib
+scikit-learn
 seaborn
 zipfile
