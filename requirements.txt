@@ -1,6 +1,8 @@
-import streamlit as st
+#liblary yang dugunakan dalam analisis data
+import numpy as pd
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import folium
-from streamlit_folium import folium_static
+from google.colab import files
+import zipfile
+import os
